@@ -12,7 +12,8 @@
 4. [Switching from one graphic card to the other](#how-to-switch-from-one-graphic-card-to-the-other)
 5. [Troubleshooting](#troubleshooting)
 
-Collection of scripts and tweaks to make Ubuntu 18.04 run smooth on Dell XPS 15 9570.
+Collection of scripts and tweaks to make Ubuntu 18.04 run smooth on Dell XPS 15 9570. The ISO has successfuly been used to install on other Dell laptops, such as the G5 15. 
+
 I suggest everyone to use the post install method, the respun ISO is no longer neeeded for booting Ubuntu on 9570 as the stock one contains the needed fixes.
 
 All informations, tips and tricks was gathered from:
